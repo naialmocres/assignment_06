@@ -13,7 +13,7 @@ The CENT iSchool IoT Portal (https://portal.app.cent-su.org) needs your key in a
 a password: it never goes in your code, and never in a commit. Put it in a file
 named `.env` at the root of this repository, one line:
 
-    CENT_API_KEY=cfde9c5bc6c892d1c571efe2
+    CENT_API_KEY= 0fbe14a27db768194bf62048
 
 `.env` is listed in `.gitignore`, so git will not offer to commit it. In GitHub
 Codespaces you can instead add a Codespaces secret named `CENT_API_KEY`. Either
